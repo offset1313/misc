@@ -1,4 +1,4 @@
---- 3.18.149
+--- 3.18.140
 +++ 4.9.206
 @@ -8,8 +8,10 @@
  	model = "Qualcomm Technologies, Inc. MSM8953 + PMI8950 QRD SKU3";
